@@ -171,3 +171,16 @@ a {
 .bonus {
     height: 50vh;
 }
+
+.testo{
+           text-align: center; 
+           width: 60%;
+}
+
+.intro.stage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
